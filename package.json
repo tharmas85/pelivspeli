@@ -1,0 +1,25 @@
+{
+  "name": "pelivspeli",
+  "version": "1.0.0",
+  "description": "Peli_vs_Peli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharmas85/pelivspeli.git"
+  },
+  "author": "tharmas85",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tharmas85/pelivspeli/issues"
+  },
+  "homepage": "https://github.com/tharmas85/pelivspeli#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4"
+  }
+}
